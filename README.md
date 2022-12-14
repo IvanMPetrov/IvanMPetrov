@@ -2,7 +2,7 @@
 
 
 
-Hello there.I'm Ivan from Bulgaria,and i just finished studying Java Advanced and Java OOP at https://softuni.bg/ courses.
+Hello there.I'm Ivan from Plovdiv,Bulgaria,and i have just finished studying Java Advanced and Java OOP at https://softuni.bg/ courses.
 I enjoy solving java problems and i'm eager to learn more languages and frameworks.Currently studying 🌱SPRING.
 
 <!--
