@@ -1,11 +1,12 @@
 ![Java Developer](https://github.com/IvanMPetrov/IvanMPetrov/blob/main/java-training-banner-720x480.jpg)
 
 # Ivan Petrov
-###Hello there. I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.           
-###I enjoy solving java problems and i'm eager to learn more languages and frameworks.
+
+### Hello there. I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.           
+### I enjoy solving java problems and i'm eager to learn more languages and frameworks.
 
 
-* Currently studying 🌱SPRING.
+### * Currently studying 🌱SPRING.
 
 ## Skills and Experience
 
