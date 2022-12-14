@@ -1,9 +1,11 @@
 ![Java Developer](https://github.com/IvanMPetrov/IvanMPetrov/blob/main/java-training-banner-720x480.jpg)
 
+###
 Hello there.I'm Ivan from Plovdiv,Bulgaria,and i have just finished studying Java Advanced and Java OOP at https://softuni.bg/ courses.
 I enjoy solving java problems and i'm eager to learn more languages and frameworks.Currently studying 🌱SPRING.
 
 Skills: JAVA
+* 
 
 - 🌱 I’m currently learning SPRING 
 
@@ -12,4 +14,7 @@ Skills: JAVA
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMPetrov)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
