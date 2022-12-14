@@ -1,5 +1,3 @@
-### Hi there 👋, Ivan Petrov
-#### Java Developer
 ![Java Developer](https://github.com/IvanMPetrov/IvanMPetrov/blob/main/java-training-banner-720x480.jpg)
 
 Hello there.I'm Ivan from Plovdiv,Bulgaria,and i have just finished studying Java Advanced and Java OOP at https://softuni.bg/ courses.
