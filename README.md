@@ -6,7 +6,7 @@ I enjoy solving java problems and i'm eager to learn more languages and framewor
 
 ##Skills and Experience
 
-[![My Skills](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
 * 
 
