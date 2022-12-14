@@ -2,6 +2,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanMPetrov)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Hello there.I'm Ivan from Bulgaria,and i just finished studying Java Advanced and Java OOP at https://softuni.bg/ courses.
+I enjoy solving java problems and i'm eager to learn more languages and frameworks.Currently studying 🌱SPRING.
+
 <!--
 **IvanMPetrov/IvanMPetrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
