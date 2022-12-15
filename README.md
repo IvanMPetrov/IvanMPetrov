@@ -13,6 +13,8 @@
 
 ## Skills and Experience
 
+Git and GitHub
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
 
