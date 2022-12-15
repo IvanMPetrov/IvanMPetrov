@@ -1,9 +1,9 @@
-![Java Developer](https://miro.medium.com/max/800/1*m5EfuyfBghErmi1GcM2vVQ.png)
+![Java Developer](https://synergymaxlearn.com/wp-content/uploads/2016/07/java-PROJECTS.jpg)
 
 # Ivan Petrov
 
-#### I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.        
-I enjoy solving java problems and i'm eager to learn more languages and frameworks.
+#### I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.
+#### I enjoy solving java problems and i'm eager to learn more languages and frameworks.
 
 
 ## Currently studying
