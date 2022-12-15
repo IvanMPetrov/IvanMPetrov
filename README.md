@@ -1,4 +1,4 @@
-![Java Developer](https://github.com/IvanMPetrov/IvanMPetrov/blob/main/java-training-banner-720x480.jpg)
+![Java Developer](https://miro.medium.com/max/800/1*m5EfuyfBghErmi1GcM2vVQ.png)
 
 # Ivan Petrov
 
