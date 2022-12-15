@@ -6,8 +6,8 @@
 
 
 ## Currently studying
-### SPRING
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) 
+#### SPRING
+ [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) 
 
 
 
