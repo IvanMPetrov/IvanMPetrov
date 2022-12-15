@@ -5,8 +5,9 @@
 #### I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.               I enjoy solving java problems and i'm eager to learn more languages and frameworks.
 
 
-## * Currently studying
-[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) SPRING
+## Currently studying
+### SPRING
+[![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) 
 
 
 
