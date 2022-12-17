@@ -2,7 +2,7 @@
 
 # Ivan Petrov
 
-#### I'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/. I enjoy solving java problems and i'm eager to learn more languages and frameworks.
+#### Hello,i'm Ivan from Plovdiv, Bulgaria, and i have just finished studying Java Advanced and Java OOP courses at https://softuni.bg/.    I enjoy solving java problems and i'm eager to learn more languages and frameworks.
 
 
 ## Currently studying
@@ -13,10 +13,9 @@
 
 ## Skills and Experience
 
-Git and GitHub
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git&theme=light)](https://skillicons.dev)
 
 ## Contact me on:
 
