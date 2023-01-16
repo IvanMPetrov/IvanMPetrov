@@ -7,7 +7,7 @@
 
 ## Currently studying
 
- [![My Skills](https://skillicons.dev/icons?i=spring&theme=light)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev) 
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,mysql&theme=light)](https://skillicons.dev)
 
 ## Contact me on:
 
