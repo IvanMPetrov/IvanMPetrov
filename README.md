@@ -1,4 +1,4 @@
-![Java Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNCYCqKuebQTjb1srMwdZz9s_mdDj8eaaSg&usqp=CAU)
+![Java Developer](https://fgp.dev/static/media/JavaDevelopmentBanner.0fa10828.jpg)
 
 # Ivan Petrov
 
