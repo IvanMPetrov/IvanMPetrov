@@ -7,7 +7,7 @@
 
 ## Currently studying
 
- [![My Skills](https://skillicons.dev/icons?i=spring,hibernate&theme=light)](https://skillicons.dev) 
+ [![My Skills](https://skillicons.dev/icons?i=spring,hibernate&theme=light)](https://skillicons.dev) ![Json](https://img.icons8.com/?size=1x&id=114474&format=png)
 
 
 
