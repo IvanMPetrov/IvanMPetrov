@@ -1,4 +1,4 @@
-![Java Developer](https://synergymaxlearn.com/wp-content/uploads/2016/07/java-PROJECTS.jpg)
+![Java Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlNCYCqKuebQTjb1srMwdZz9s_mdDj8eaaSg&usqp=CAU)
 
 # Ivan Petrov
 
