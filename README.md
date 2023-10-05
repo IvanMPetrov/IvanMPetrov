@@ -2,8 +2,10 @@
 
 # Ivan Petrov
 
-#### Hello, I'm Ivan, from Plovdiv, Bulgaria. I'm excited to share that I've successfully wrapped up my studies in Java Advanced, Java OOP, MySQL and SPRING Data courses. Currently ongoing courses: SPRING Fundamentals. 
-#### I find great satisfaction in cracking Java problems and I'm genuinely eager to expand my horizons by diving into various programming languages and frameworks.
+
+#### Hello, I am Ivan, from Plovdiv, Bulgaria, and I find great satisfaction in cracking Java problems.I'm genuinely eager to expand my horizons by diving into various programming languages and frameworks.
+#### So far I'm excited to share that I've successfully wrapped up my studies in Java Advanced, Java OOP, MySQL and SPRING Data courses, and my currently ongoing course is SPRING Fundamentals.
+#### Feel free to explore my GitHub repositories where you can discover my most recent solutions to various problems.
 
 
 ## Currently studying
