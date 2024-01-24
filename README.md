@@ -1,4 +1,4 @@
-![Java Developer](https://fgp.dev/static/media/JavaDevelopmentBanner.0fa10828.jpg)
+![Java Developer](https://fornex.com/media/article/img/Java.jpg)
 
 # Ivan Petrov
 
